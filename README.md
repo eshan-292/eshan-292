@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eshan-292
-- 👀 I’m interested in Web and App development, machine learning, competetive coding.
+- 👀 I’m interested in Web and App development, machine learning, competitive coding.
 - 🌱 I’m currently learning full stack development,graphic designing,deep learning.
 - 💞️ I’m looking to collaborate on the above mentioned things.
 - 📫 How to reach me eshan292@gmail.com
